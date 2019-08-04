@@ -155,3 +155,9 @@ p{
   background-color: #111;
   margin-top: 2px;
 } */
+
+@media screen and (max-width:800px){
+  .footer, .sidebar, .container {
+    width:100%; 
+  }
+}
