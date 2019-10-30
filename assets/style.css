@@ -33,6 +33,24 @@ hr{
   margin:100px 100px 100px 100px;
 }
 
+.skills{
+  float: left;
+  margin-left: 40%;
+  margin-right: 0px;
+}
+
+.icons{
+  width:100px;
+  height:100px;
+  margin-right: 0;
+  
+}
+
+.column{
+  float: left;
+
+}
+
 .contact{
   margin-top: 150px;
 }
